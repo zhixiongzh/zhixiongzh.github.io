@@ -7,13 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Candidate
-
-[Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/)
-
-zhixiong.zhuang@bosch.com
-
-I'm a second year PhD candidate from Bosch Center for AI. My research interest lies on trustworthy machine learning.
+I'm a second year PhD candidate at [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/). My research interest lies on trustworthy machine learning.
 
 I am very fortunate to be advised by [Prof. Mario Fritz](https://cispa.saarland/group/fritz/) at [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and [Dr. Maria-Irina Nicolae](https://ririnicolae.github.io/) at [BCAI](https://www.bosch-ai.com/).
 
