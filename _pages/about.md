@@ -9,7 +9,7 @@ redirect_from:
 
 Ph.D. Candidate
 
-[Bosch Center for AI(BCAI)](https://www.bosch-ai.com/)
+[Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/)
 
 zhixiong.zhuang@bosch.com
 
