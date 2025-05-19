@@ -36,7 +36,8 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks</span>
 <font size="3"><b>Zhixiong Zhuang</b>, Maria-Irina Nicolae, Hui-Po Wang, Mario Fritz;
 <i>Arxiv</i></font><br>
-<a href="https://arxiv.org/abs/2505.11459" class="btn--arxiv" target="_blank">Preprint. Under review</a>
+<a href="https://arxiv.org/abs/2505.11459" class="btn--paper" target="_blank">Under review</a>
+<a href="https://arxiv.org/abs/2505.11459" class="btn--arxiv" target="_blank">arxiv</a>
 
 ### <span style="color:rgb(39, 117, 182)">Stealix: Model Stealing via Prompt Evolution</span>
 <font size="3"><b>Zhixiong Zhuang</b>, Hui-Po Wang, Maria-Irina Nicolae, Mario Fritz</font><br>
@@ -51,6 +52,6 @@ Yaling Shen*, <font size="3"><b>Zhixiong Zhuang*</b>(co-first), Kun Yuan, Maria-
 
 ### <span style="color:rgb(39, 117, 182)">Stealthy Imitation: Reward-guided Environment-free Policy Stealing</span>
 <font size="3"><b>Zhixiong Zhuang</b>, Maria-Irina Nicolae, Mario Fritz</font><br>
-<a href="https://proceedings.mlr.press/v235/zhuang24a.html" class="btn--arxiv" target="_blank">ICML 2024</a>
+<a href="https://proceedings.mlr.press/v235/zhuang24a.html" class="btn--paper" target="_blank">ICML 2024</a>
 <a href="https://arxiv.org/abs/2405.07004" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/boschresearch/stealthy-imitation" class="btn--code" target="_blank">code</a>
