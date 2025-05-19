@@ -34,8 +34,7 @@ a { TEXT-DECORATION:none }
 <h2 id='2025'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks</span>
-<font size="3"><b>Zhixiong Zhuang</b>, Maria-Irina Nicolae, Hui-Po Wang, Mario Fritz;
-<i>Arxiv</i></font><br>
+<font size="3"><b>Zhixiong Zhuang</b>, Maria-Irina Nicolae, Hui-Po Wang, Mario Fritz</font><br>
 <a href="https://arxiv.org/abs/2505.11459" class="btn--paper" target="_blank">Under review</a>
 <a href="https://arxiv.org/abs/2505.11459" class="btn--arxiv" target="_blank">arxiv</a>
 
