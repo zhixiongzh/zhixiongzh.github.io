@@ -41,8 +41,8 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">Stealix: Model Stealing via Prompt Evolution</span>
 <font size="3"><b>Zhixiong Zhuang</b>, Hui-Po Wang, Maria-Irina Nicolae, Mario Fritz;</font>
-<a href="https://icml.cc/virtual/2025/poster/44026" class="btn--paper" target="_blank">ICML 2025</a>
-
+<a href="https://zhixiongzh.github.io/stealix/" class="btn--paper" target="_blank">ICML 2025</a>
+<a href="https://arxiv.org/abs/2506.058678" class="btn--arxiv" target="_blank">arxiv</a>
 
 ### <span style="color:rgb(39, 117, 182)">Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment</span>
 Yaling Shen*, <font size="3"><b>Zhixiong Zhuang*</b>(co-first), Kun Yuan, Maria-Irina Nicolae, Nassir Navab, Nicolas Padoy, Mario Fritz;</font>
