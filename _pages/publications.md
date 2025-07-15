@@ -46,6 +46,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment</span>
 Yaling Shen*, <font size="3"><b>Zhixiong Zhuang*</b>(co-first), Kun Yuan, Maria-Irina Nicolae, Nassir Navab, Nicolas Padoy, Mario Fritz;</font>
+<br>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32734" class="btn--paper" target="_blank">AAAI 2025 Oral</a>
 <a href="https://arxiv.org/abs/2502.02438" class="btn--arxiv" target="_blank">arxiv</a>
 
