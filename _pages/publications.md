@@ -29,6 +29,14 @@ text-align: center;
 border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
+.btn--blog {
+color: white;
+background-color: darkslateblue;
+padding: 1px 3px;
+text-align: center;
+border-radius: 4px;
+a { TEXT-DECORATION:none }
+}
 </style>
 
 <h2 id='2025'>2025</h2>
@@ -43,12 +51,14 @@ a { TEXT-DECORATION:none }
 <font size="3"><b>Zhixiong Zhuang</b>, Hui-Po Wang, Maria-Irina Nicolae, Mario Fritz;</font>
 <a href="https://zhixiongzh.github.io/stealix/" class="btn--paper" target="_blank">ICML 2025</a>
 <a href="https://arxiv.org/abs/2506.058678" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://medium.com/security-garten/no-prompts-no-problem-let-models-teach-you-to-steal-it-9e9602ed002b" class="btn--blog" target="_blank">blog</a>
 
 ### <span style="color:rgb(39, 117, 182)">Medical Multimodal Model Stealing Attacks via Adversarial Domain Alignment</span>
 Yaling Shen*, <font size="3"><b>Zhixiong Zhuang*</b>(co-first), Kun Yuan, Maria-Irina Nicolae, Nassir Navab, Nicolas Padoy, Mario Fritz;</font>
 <br>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32734" class="btn--paper" target="_blank">AAAI 2025 Oral</a>
 <a href="https://arxiv.org/abs/2502.02438" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://medium.com/security-garten/stealing-medical-ai-with-cat-photos-the-hidden-threat-to-radiology-models-292324b022c5" class="btn--blog" target="_blank">blog</a>
 
 
 <h2 id='2024'>2024</h2>
