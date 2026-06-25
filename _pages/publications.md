@@ -43,7 +43,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks</span>
 <font size="3"><b>Zhixiong Zhuang</b>, Maria-Irina Nicolae, Hui-Po Wang, Mario Fritz;</font>
-<a href="https://arxiv.org/abs/2505.11459" class="btn--paper" target="_blank">Under review</a>
+<a href="https://arxiv.org/abs/2505.11459" class="btn--paper" target="_blank">ACL 2026 Findings</a>
 <a href="https://arxiv.org/abs/2505.11459" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/boschresearch/proxyprompt" class="btn--code" target="_blank">code</a>
 
